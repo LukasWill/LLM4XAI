@@ -1,5 +1,5 @@
-# LLM4XAI
-A curated selection of papers on utilising LLM for explanations of ML models
+# Awesome-LLM4XAI 
+A curated selection of papers on leveraging LLM to explain ML models.
 ## Bibliography
 
 | Lesson                                                                                                                         | Paper                                                                                                                                     | Date     |
